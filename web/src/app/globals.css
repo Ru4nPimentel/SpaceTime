@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+bofy {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
